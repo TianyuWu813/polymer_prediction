@@ -13,6 +13,8 @@ This project includes the training process of multi-modal polymer property predi
 
 Tips: Using code `conda install -c rdkit rdkit` can help you install package RDKit quickly.
 
+The install time is near 10-15 minutes.
+
 ## Usage
 For multi-modal polymer representations:
 
