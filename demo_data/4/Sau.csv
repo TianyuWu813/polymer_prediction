@@ -1,0 +1,7 @@
+smiles,property
+"{[>]NC(CCCC[NH3+])C=O.[+rn=90],N[C@@H](CCC(OCC1=CC=CC=C1)=O)C=O[<].[+rn=10]}",0.936952103
+"{[>]NC(CCCC[NH3+])C=O.[+rn=80],N[C@@H](CCC(OCC1=CC=CC=C1)=O)C=O[<].[+rn=20]}",2
+"{[>]NC(CCCC[NH3+])C=O.[+rn=70],N[C@@H](CCC(OCC1=CC=CC=C1)=O)C=O[<].[+rn=30]}",2
+"{[>]NC(CCCC[NH3+])C=O.[+rn=60],N[C@@H](CCC(OCC1=CC=CC=C1)=O)C=O[<].[+rn=40]}",2
+"{[>]NC(CCCC[NH3+])C=O.[+rn=50],N[C@@H](CCC(OCC1=CC=CC=C1)=O)C=O[<].[+rn=50]}",2
+"{[>]NC(CCCC[NH3+])C=O.[+rn=40],N[C@@H](CCC(OCC1=CC=CC=C1)=O)C=O[<].[+rn=60]}",3

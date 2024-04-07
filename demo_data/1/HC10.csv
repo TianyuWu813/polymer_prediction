@@ -1,0 +1,13 @@
+smiles,property
+"{[>]CC(C(OCC[NH3+])=O)C.FC(F)(C([O-])=O)F.[+rn=50],CC(C)C(OCCCC)=O[<].[+rn=50]}",7.321213771
+"{[>]CC(C(OCC[NH3+])=O)C.FC(F)(C([O-])=O)F.[+rn=12],CC(C)C(OCCCC)=O[<].[+rn=88]}",6.376642823
+"{[>]CC(C(OCC[NH3+])=O)C.FC(F)(C([O-])=O)F.[+rn=20],CC(C)C(OCCCC)=O[<].[+rn=80]}",4.674122245
+"{[>]CC(C(OCC[NH3+])=O)C.FC(F)(C([O-])=O)F.[+rn=28],CC(C)C(OCCCC)=O[<].[+rn=72]}",3.350576482
+"{[>]CC(C(OCC[NH3+])=O)C.FC(F)(C([O-])=O)F.[+rn=37],CC(C)C(OCCCC)=O[<].[+rn=63]}",3.350576482
+"{[>]CC(C(OCC[NH3+])=O)C.FC(F)(C([O-])=O)F.[+rn=45],CC(C)C(OCCCC)=O[<].[+rn=55]}",3.350576482
+"{[>]CC(C(OCC[NH3+])=O)C.FC(F)(C([O-])=O)F.[+rn=53],CC(C)C(OCCCC)=O[<].[+rn=47]}",3.350576482
+"{[>]CC(C(OCC[NH3+])=O)C.[Cl-].[+rn=00],CC(C)C(OC)=O[<].[+rn=100]}",10.32488493
+"{[>]CC(C(OCC[NH3+])=O)C.[Cl-].[+rn=12],CC(C)C(OC)=O[<].[+rn=88]}",10.32488493
+"{[>]CC(C(OCC[NH3+])=O)C.[Cl-].[+rn=28],CC(C)C(OC)=O[<].[+rn=72]}",10.32488493
+"{[>]CC(C(OCC[NH3+])=O)C.[Cl-].[+rn=47],CC(C)C(OC)=O[<].[+rn=63]}",10.32488493
+"{[>]CC(C(OCC[NH3+])=O)C.[Cl-].[+rn=62],CC(C)C(OC)=O[<].[+rn=38]}",6.186933157
